@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: #007bff;
+  color: #34C0DF;
   transition: 0.5s;
 }
 
@@ -617,16 +617,6 @@ h6 {
   font-size: 24px;
 }
 
-/* Blog Section
---------------------------------*/
-.blogcard{
-  padding-top:1em;
-}
-
-#blog{
-  margin-top:4em;
-  padding: 2em;
-}
 
 /* Services Section
 --------------------------------*/
